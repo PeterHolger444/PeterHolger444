@@ -1,1 +1,4 @@
 - Hi, I’m @PeterHolger444
+- I love learning anything about maths, computer science and cybersecurity(specifically cryptography)
+- Love playing CTFs and wargames (picoCTF, overthewire, cryptohack, cryptopals)
+- Enjoy being in a team
