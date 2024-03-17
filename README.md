@@ -1,4 +1,4 @@
-- Hi, I’m @PeterHolger444
+- Hi, I’m @PeterHolger444 (a.k.a Khant Tyi Kyi Kyaw)
 - I love learning anything about maths, computer science and cybersecurity(specifically cryptography)
 - Love playing CTFs and wargames (picoCTF, overthewire, cryptohack, cryptopals)
 - Enjoy being in a team
